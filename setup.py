@@ -11,6 +11,6 @@ setup(
     description='A utility for backing up PostgreSQL databases',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/quiditich/pgbackup',
+    url='https://github.com/quiditich/pgbackup_db',
     packages=find_packages('src')
 )
