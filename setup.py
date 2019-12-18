@@ -7,7 +7,7 @@ setup(
     name='pgpackup',
     version='0.1.0',
     author='Andrei Minzareanu',
-    author_email='andrei.minzareanu@ubisoft.com',
+    author_email='a.manzareanu@yahoo.com',
     description='A utility for backing up PostgreSQL databases',
     long_description=long_description,
     long_description_content_type='text/markdown',
